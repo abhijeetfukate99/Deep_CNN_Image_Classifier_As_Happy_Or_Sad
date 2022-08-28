@@ -1,2 +1,2 @@
-# comment_toxicity_model
-I build comment toxicity model using deep learning and python to spot and identify toxic comments.
+# Deep CNN Image Classifier
+I Build Deep CNN Image Classifier Using Deep Learning And Python To Identify Whether A Image Is Happy Or Sad.
